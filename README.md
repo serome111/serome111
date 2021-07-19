@@ -2,7 +2,7 @@
 
 In this repository you can find some projects that I use to study libraries and frameworks, even for companies or teamwork.
 
- ![ Alt text](https://i.pinimg.com/originals/cf/6f/cf/cf6fcf14be2cd01dd4923b36445ca632.gif)(Teamwork)
+ <img src="https://i.pinimg.com/originals/cf/6f/cf/cf6fcf14be2cd01dd4923b36445ca632.gif" width="220" height="200px" />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sebastian%20Roa%20Meneses-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serome111/)](https://www.linkedin.com/in/serome111/)
 [![Torrente](https://img.shields.io/twitter/url?label=TorrenteSoftware&logo=Telegraph&logoColor=blue&style=social&url=https%3A%2F%2Fgithub.com%2Ftorrentesofware)](https://github.com/torrentesofware/)
