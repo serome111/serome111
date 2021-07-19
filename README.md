@@ -12,7 +12,6 @@ In this repository you can find some projects that I use to study libraries and 
 ## Back-End
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white&link=https://github.com/serome111/)](https://github.com/serome111/)
 [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white&link=https://github.com/serome111/)](https://github.com/serome111/)
-
 [![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white&link=https://github.com/serome111/)](https://github.com/serome111/)
 [![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat-square&logo=Python&link=https://github.com/serome111/)](https://github.com/serome111/)
 [![Django](https://img.shields.io/badge/-Django-2D?style=flat-square&logo=Django&link=https://github.com/serome111/)](https://github.com/serome111/)
