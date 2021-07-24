@@ -6,7 +6,8 @@ In this repository you can find some projects that I use to study libraries and 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sebastian%20Roa%20Meneses-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serome111/)](https://www.linkedin.com/in/serome111/)
 [![Torrente](https://img.shields.io/twitter/url?label=TorrenteSoftware&logo=Telegraph&logoColor=blue&style=social&url=https%3A%2F%2Fgithub.com%2Ftorrentesofware)](https://github.com/torrentesofware/)
-
+### Visitors Count
+![Count](https://profile-counter.glitch.me/serome111/count.svg)
 
 # Knowledges :mortar_board:
 ## Back-End
